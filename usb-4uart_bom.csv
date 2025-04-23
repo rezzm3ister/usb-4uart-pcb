@@ -31,7 +31,7 @@
 "R3","12k","~","Resistor_SMD:R_0201_0603Metric","1","","","",""
 "R4","10k","~","Resistor_SMD:R_0201_0603Metric","1","","","",""
 "R5","10k","~","Resistor_SMD:R_0201_0603Metric","1","","","",""
-"R6","1M","~","Resistor_SMD:R_0201_0603Metric","1","","","",""
+"R6","1M","~","Resistor_SMD:R_0201_0603Metric","1","DNP","","",""
 "R7","100k","~","Resistor_SMD:R_0201_0603Metric","1","","","",""
 "R8","100k","~","Resistor_SMD:R_0201_0603Metric","1","","","",""
 "R9","100k","~","Resistor_SMD:R_0201_0603Metric","1","","","",""
