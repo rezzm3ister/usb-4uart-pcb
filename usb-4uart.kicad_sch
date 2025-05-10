@@ -3745,6 +3745,12 @@
 		(uuid "4d8d07e8-ed39-42b9-b321-b3e1b203e091")
 	)
 	(junction
+		(at 86.36 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f608d0b-ec80-4898-9a9d-5611670c5309")
+	)
+	(junction
 		(at 256.54 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3901,6 +3907,12 @@
 		(uuid "ba51111e-90f9-4260-9d3a-c1082fc2a899")
 	)
 	(junction
+		(at 64.77 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "be15986e-da87-4418-a2a0-9f7c10a4616d")
+	)
+	(junction
 		(at 254 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4055,6 +4067,16 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd2bb4fb-6874-4a98-aabf-6c258290c4c0")
+	)
+	(wire
+		(pts
+			(xy 62.23 35.56) (xy 68.58 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "003f6ab2-a2bc-4f4e-92ff-70e55d944ad9")
 	)
 	(wire
 		(pts
@@ -4238,7 +4260,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 58.42) (xy 83.82 58.42)
+			(xy 76.2 58.42) (xy 86.36 58.42)
 		)
 		(stroke
 			(width 0)
@@ -4388,16 +4410,6 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 35.56) (xy 67.31 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ef61d2c-0c5f-4d00-84b4-4c294974a6a3")
-	)
-	(wire
-		(pts
 			(xy 227.33 53.34) (xy 227.33 64.77)
 		)
 		(stroke
@@ -4478,7 +4490,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 29.21) (xy 83.82 29.21)
+			(xy 87.63 29.21) (xy 86.36 29.21)
 		)
 		(stroke
 			(width 0)
@@ -4595,6 +4607,16 @@
 			(type default)
 		)
 		(uuid "2f62c86e-57f4-4e5c-9264-8be13c03dd8a")
+	)
+	(wire
+		(pts
+			(xy 64.77 40.64) (xy 68.58 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32a2b178-ea38-47d0-b399-0167805ba677")
 	)
 	(wire
 		(pts
@@ -4878,16 +4900,6 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 35.56) (xy 67.31 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5c50ffbe-cc82-4ba5-a3f6-e2320290b507")
-	)
-	(wire
-		(pts
 			(xy 92.71 60.96) (xy 99.06 60.96)
 		)
 		(stroke
@@ -4918,7 +4930,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 58.42) (xy 76.2 58.42)
+			(xy 64.77 58.42) (xy 76.2 58.42)
 		)
 		(stroke
 			(width 0)
@@ -5095,6 +5107,16 @@
 			(type default)
 		)
 		(uuid "670e20de-6bb5-42e4-a750-13622a40d006")
+	)
+	(wire
+		(pts
+			(xy 86.36 29.21) (xy 86.36 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68b3eacb-6ac9-42ce-8ea7-44a953031110")
 	)
 	(wire
 		(pts
@@ -5458,16 +5480,6 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 40.64) (xy 83.82 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d925f57-af44-4820-a174-f0ac260b9e47")
-	)
-	(wire
-		(pts
 			(xy 83.82 189.23) (xy 86.36 189.23)
 		)
 		(stroke
@@ -5508,13 +5520,23 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 45.72) (xy 68.58 45.72)
+			(xy 87.63 45.72) (xy 64.77 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "8ff3eeb7-1794-41b1-b69c-11500b51d40a")
+	)
+	(wire
+		(pts
+			(xy 62.23 35.56) (xy 62.23 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92534370-cc75-45d5-a0f2-8ef38701ace5")
 	)
 	(wire
 		(pts
@@ -5758,7 +5780,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 45.72) (xy 68.58 40.64)
+			(xy 64.77 45.72) (xy 64.77 40.64)
 		)
 		(stroke
 			(width 0)
@@ -5785,6 +5807,16 @@
 			(type default)
 		)
 		(uuid "b5b2c0ad-9757-4def-a4ba-77ed8d61039b")
+	)
+	(wire
+		(pts
+			(xy 83.82 40.64) (xy 83.82 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6211f7b-4124-4de7-9bc8-d14540ab3770")
 	)
 	(wire
 		(pts
@@ -5975,6 +6007,16 @@
 			(type default)
 		)
 		(uuid "cc913641-a0a4-4b72-b061-b0946ac7b1dc")
+	)
+	(wire
+		(pts
+			(xy 86.36 29.21) (xy 83.82 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc9286fc-1577-4ccd-ac33-130ad311ca9d")
 	)
 	(wire
 		(pts
@@ -6545,6 +6587,16 @@
 			(type default)
 		)
 		(uuid "f29bd26c-495e-44b1-93ea-a5659e4712ea")
+	)
+	(wire
+		(pts
+			(xy 64.77 45.72) (xy 64.77 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6ea3312-f0b9-4e0c-ad89-8d3ae321fc36")
 	)
 	(wire
 		(pts
@@ -7829,6 +7881,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25744"
+			(at 140.97 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ade8d13f-5cc3-4485-ab60-653c91b01db2")
 		)
@@ -7937,7 +7997,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 228.2952 53.34 0)
 			(effects
 				(font
@@ -7962,6 +8022,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C15525"
+			(at 227.33 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -8029,6 +8097,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C25744"
+			(at 246.38 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8228,6 +8304,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1525"
+			(at 205.74 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "36d12fa7-35fb-4604-bc80-2edde9ef83ec")
 		)
@@ -8294,6 +8378,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C25752"
+			(at 160.02 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -8431,6 +8523,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1525"
+			(at 173.99 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f606a652-cfa9-493d-8a81-221d32f0608f")
 		)
@@ -8566,6 +8666,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1525"
+			(at 198.12 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d51194ed-d475-43c0-b2bd-1775cc2dcc52")
 		)
@@ -8633,6 +8741,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C1525"
+			(at 190.5 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -8848,6 +8964,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25900"
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5c7b1548-e45f-45cb-bfbd-dd01440a25e3")
 		)
@@ -8982,7 +9106,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C60563"
+		(property "LCSC" "C60563"
 			(at 120.65 39.37 0)
 			(effects
 				(font
@@ -9377,6 +9501,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C52923"
+			(at 144.78 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "545c09ad-d33a-49f9-9c3a-05775d5d6f56")
 		)
@@ -9512,6 +9644,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C52923"
+			(at 265.43 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "aaaadc69-280f-458d-8ae1-f38b9895c2a2")
 		)
@@ -9577,6 +9717,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C25744"
+			(at 246.38 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9648,6 +9796,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1525"
+			(at 124.46 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "41dd770c-0551-498d-a3e1-6822fc005ade")
 		)
@@ -9714,6 +9870,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C25900"
+			(at 90.17 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9785,6 +9949,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1525"
+			(at 213.36 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "db789d70-45a7-4156-952a-a4957f6cf2bb")
 		)
@@ -9851,6 +10023,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C25905"
+			(at 252.73 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9922,6 +10102,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C52923"
+			(at 274.32 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0cbf688f-1e3c-43dc-92a2-076be5147f96")
 		)
@@ -9989,6 +10177,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25741"
+			(at 246.38 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d02fc502-1e82-4eba-9fef-0400100629b8")
 		)
@@ -10030,7 +10226,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 217.17 33.528 90)
 			(effects
 				(font
@@ -10055,6 +10251,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C22950"
+			(at 217.17 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -10123,6 +10327,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C25752"
+			(at 248.92 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -10201,6 +10413,71 @@
 			(project "usb-4uart"
 				(path "/aceb351b-e350-4cc9-a5d8-46c65c08d9c5"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 62.23 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "64e5f7ec-5124-4e36-8e2f-136871e764f2")
+		(property "Reference" "#PWR029"
+			(at 62.23 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 62.23 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 62.23 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 62.23 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 62.23 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "47753af3-7be2-490c-94dd-5057bf6e20fc")
+		)
+		(instances
+			(project "usb-4uart"
+				(path "/aceb351b-e350-4cc9-a5d8-46c65c08d9c5"
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -10392,6 +10669,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1525"
+			(at 182.88 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c9f36164-284d-44ff-8d8f-3b11869af9a4")
 		)
@@ -10526,6 +10811,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25900"
+			(at 35.56 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fbe47863-8901-4692-b68b-b9ae309ccefb")
 		)
@@ -10543,7 +10836,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 67.31 54.61 0)
+		(at 64.77 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10551,7 +10844,7 @@
 		(dnp no)
 		(uuid "779eb760-443a-4448-a785-1c1882fded94")
 		(property "Reference" "C7"
-			(at 68.58 52.578 0)
+			(at 66.04 52.578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10559,8 +10852,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "12pF"
-			(at 67.818 56.896 0)
+		(property "Value" "10pF"
+			(at 65.278 56.896 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10569,7 +10862,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 68.2752 58.42 0)
+			(at 65.7352 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10578,7 +10871,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 67.31 54.61 0)
+			(at 64.77 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10587,12 +10880,20 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 67.31 54.61 0)
+			(at 64.77 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C32949"
+			(at 64.77 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -10867,6 +11168,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1525"
+			(at 111.76 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "834b9283-e721-4ec3-b329-08411a5bfe23")
 		)
@@ -10932,6 +11241,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C25741"
+			(at 246.38 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11001,6 +11318,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C1525"
+			(at 165.1 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -11137,6 +11462,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25744"
+			(at 143.51 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3dfa8a2b-4cf8-4e31-9fc6-d73f1a471a6e")
 		)
@@ -11206,6 +11539,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1525"
+			(at 138.43 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "48605ce5-5428-4a6b-bc5f-d952eed90847")
 		)
@@ -11273,6 +11614,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C1525"
+			(at 105.41 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -11422,6 +11771,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 83.82 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9f03c295-3575-4a4c-ae1b-3b1e104086a4")
+		(property "Reference" "#PWR030"
+			(at 83.82 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 83.82 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 83.82 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 83.82 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 83.82 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "43ceaa17-ecd6-4559-ac1a-efb78620b9ea")
+		)
+		(instances
+			(project "usb-4uart"
+				(path "/aceb351b-e350-4cc9-a5d8-46c65c08d9c5"
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 118.11 60.96 0)
 		(unit 1)
@@ -11489,7 +11903,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 83.82 54.61 0)
+		(at 86.36 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11497,7 +11911,7 @@
 		(dnp no)
 		(uuid "a0f0939f-c427-46cd-a1a9-9c0a31897b7e")
 		(property "Reference" "C6"
-			(at 85.09 52.578 0)
+			(at 87.63 52.578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11505,8 +11919,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "12pF"
-			(at 84.328 56.896 0)
+		(property "Value" "10pF"
+			(at 86.868 56.896 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11515,7 +11929,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 84.7852 58.42 0)
+			(at 87.3252 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11524,7 +11938,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 83.82 54.61 0)
+			(at 86.36 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11533,12 +11947,20 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 83.82 54.61 0)
+			(at 86.36 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C32949"
+			(at 86.36 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -11607,6 +12029,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C25900"
+			(at 34.29 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11678,6 +12108,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1525"
+			(at 267.97 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6216247b-aead-48c6-a786-1695bb68ab6a")
 		)
@@ -11719,7 +12157,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 217.17 37.338 90)
 			(effects
 				(font
@@ -11744,6 +12182,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C22950"
+			(at 217.17 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -11947,6 +12393,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1525"
+			(at 130.81 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "53cbd5aa-3d8d-4e55-9493-927ba28bd5b1")
 		)
@@ -12012,6 +12466,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C25741"
+			(at 246.38 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -12145,6 +12607,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C25741"
+			(at 246.38 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -12419,6 +12889,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1525"
+			(at 92.71 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "25772b37-0d59-4798-bbfa-18465d598321")
 		)
@@ -12552,6 +13030,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C1525"
+			(at 137.16 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -13023,6 +13509,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25752"
+			(at 160.02 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "33ffaa43-c4ba-4499-8fa6-1f776f205f2d")
 		)
@@ -13287,6 +13781,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C1525"
+			(at 99.06 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -13722,7 +14224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier Part" "C70590"
+		(property "Supplier Part" "C70583"
 			(at 76.2 38.1 0)
 			(effects
 				(font
@@ -13749,7 +14251,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C70590"
+		(property "LCSC" "C70583"
 			(at 76.2 38.1 0)
 			(effects
 				(font
@@ -13830,6 +14332,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C25905"
+			(at 252.73 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -13965,6 +14475,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C1525"
+			(at 118.11 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
